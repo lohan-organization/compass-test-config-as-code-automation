@@ -1,0 +1,11 @@
+name: compass-test-config-as-code-automation
+description: Repository to test compass integration for organization
+configVersion: 1
+typeId: SERVICE
+ownerId: ari:cloud:identity::team/67475e7e-6193-4f1d-8e25-548130692086
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/lohan-organization/compass-test-config-as-code-automation
