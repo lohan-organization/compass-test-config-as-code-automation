@@ -9,3 +9,6 @@ links:
   - name: null
     type: REPOSITORY
     url: https://github.com/lohan-organization/compass-test-config-as-code-automation
+  - name: ''
+    type: PROJECT
+    url: 'https://natura.atlassian.net/browse/GAED'
