@@ -12,3 +12,18 @@ links:
   - name: ''
     type: PROJECT
     url: 'https://natura.atlassian.net/browse/GAED'
+  - name: ''
+    type: OTHER_LINK
+    url: 'https://data-platformgrupo.slack.com/archives/C0755S6PSSY'
+  - name: Criação template pipeline
+    type: DOCUMENT
+    url: 'https://natura.atlassian.net/wiki/spaces/COEI/pages/4206920230/Cria+o+de+Template+de+Pipeline'
+  - name: Discover
+    type: DOCUMENT
+    url: 'https://natura.atlassian.net/wiki/spaces/COEI/pages/4206920230/Cria+o+de+Template+de+Pipeline'
+  - name: Maintaner
+    type: DOCUMENT
+    url: 'https://natura.atlassian.net/wiki/spaces/COEI/pages/4206920230/Cria+o+de+Template+de+Pipeline'
+  - name: Other
+    type: DOCUMENT
+    url: 'https://natura.atlassian.net/wiki/spaces/COEI/pages/4206920230/Cria+o+de+Template+de+Pipeline'
